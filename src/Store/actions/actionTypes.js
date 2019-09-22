@@ -1,0 +1,2 @@
+export const AUTOCOMPLETE = 'AUTOCOMPLETE'
+export const FOCUS_USER = 'FOCUS_USER'
